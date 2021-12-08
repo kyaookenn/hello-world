@@ -1,2 +1,2 @@
 # hello-world
-Leaning how to Git
+starting up on GitHub and coding, giving my baby steps. pls be patient.
